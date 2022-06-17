@@ -7,10 +7,14 @@ Regression Analysis with Recurrent neural network
   - Algorithm:
 
     - [x] SimpleRNN
+    - [x] LSTM
+    - [x] GRU
 
 
   - Loss:
 
     Algorithm | MSE Loss |
     ------------- | ------------- |
-    SimpleRNN | **0.00192** |
+    SimpleRNN | **0.00112** |
+    LSTM | **0.00166** |
+    GRU | **0.00146** |
