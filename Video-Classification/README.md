@@ -1,10 +1,7 @@
-## Video Classification
-
-
-  **Dataset Link:** [JooneDel Dataset](https://www.kaggle.com/datasets/alirezakiaipoor/joonedel)
+## Detect Ball Direction
   
 
-Video classification in JooneDel dataset using recurrent neural network.
+Detect Ball Direction using recurrent neural network.
 
 
   - Algorithm:
@@ -16,4 +13,4 @@ Video classification in JooneDel dataset using recurrent neural network.
 
     Algorithm | Accuracy | Loss |
     ------------- | ------------- | ------------- |
-    GRU | **57.14 %** | **0.7055** |
+    GRU | **100 %** | **2.3914e-04** |
